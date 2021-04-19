@@ -8,7 +8,7 @@
 
 import UIKit
 import PlaygroundSupport
-
+import SpriteKit
 @objc(BookCore_LiveViewController)
 public class LiveViewController: UIViewController, PlaygroundLiveViewMessageHandler, PlaygroundLiveViewSafeAreaContainer {
     /*

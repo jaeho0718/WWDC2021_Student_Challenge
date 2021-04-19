@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "454D5099-1A61-4041-90AB-A164E5CC1A80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "044ECF5C-3E3B-4AB2-A423-3F2FF3FDF2C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaygroundBook/UserModules/GameView.playgroundmodule/Sources/Game.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "GameViewController"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "044ECF5C-3E3B-4AB2-A423-3F2FF3FDF2C8 - 4e76fb5dd674e045"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of BookCore.GameViewController.soundName(_: Swift.String, fontsize: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leejaeho/Desktop/WWDC_Playground/Template/PlaygroundBook/UserModules/GameView.playgroundmodule/Sources/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "044ECF5C-3E3B-4AB2-A423-3F2FF3FDF2C8 - 58e7e4f61243dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BookCore.GameViewController.soundName(_: Swift.String, fontsize: CoreGraphics.CGFloat) -&gt; ()"
+                  moduleName = "LiveViewTestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leejaeho/Desktop/WWDC_Playground/Template/PlaygroundBook/UserModules/GameView.playgroundmodule/Sources/Game.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

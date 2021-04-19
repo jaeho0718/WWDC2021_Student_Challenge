@@ -1,9 +1,14 @@
 //#-hidden-code
-//
-//  See LICENSE folder for this template’s licensing information.
-//
-//  Abstract:
-//  The Swift file containing the source code edited by the user of this playground book.
-//
+playSound(true)
+GameInit()
+checkUserInput("AddBlock",pass_message:"Congratulation! You made rhythm game!!",fail_hint:["Use AddBlock(to:,delay:)!!"],nextPageName:nil)
 //#-end-hidden-code
-let str = "Hello, playground"
+/*:
+ # **Final**
+ 
+ In preious steps, We learned Function ,For loop, If condtional, If-else If conditional.
+ 
+ **Create your own rhythm game based on what you learned earlier.**
+ 
+ */
+ 

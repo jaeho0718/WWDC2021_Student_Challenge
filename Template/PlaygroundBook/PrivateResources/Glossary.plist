@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Term</key>
+	<dict>
+		<key>parameter</key>
+		<dict>
+			<key>Definition</key>
+			<string>input of function. If parameter exists, when you call function., you should pass through value to parameter</string>
+		</dict>
+		<key>Double</key>
+		<dict>
+			<key>Definition</key>
+			<string>The double is a fundamental data type built into the compiler and used to define numeric variables holding numbers with decimal points.</string>
+		</dict>
+		<key>Function</key>
+		<dict>
+			<key>Definition</key>
+			<string>Functions are &quot;self contained&quot; modules of code that accomplish a specific task.</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

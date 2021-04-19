@@ -6,18 +6,20 @@ Contains English localizations of values in Manifest.plist files in the playgrou
 */
 
 /* The localized name of the playground book. */
-"PlaygroundBookName" = "Make Game";
+"PlaygroundBookName" = "Make Rhythm Game";
 
 /* The localized name of the first chapter in the playground book. */
 "ChapterOneName" = "Tutorial";
 
 /* The localized name of the first page in the first chapter in the playground book. */
 "ChapterOnePage1Name" = "Let's Start";
-"ChapterOnePage2Name" = "Value";
-"ChapterOnePage3Name" = "For loop";
-"ChapterOnePage4Name" = "Conditional";
-"ChapterOnePage5Name" = "Function";
+"ChapterOnePage1-1Name" = "Make box!";
+"ChapterOnePage1-2Name" = "Function";
+"ChapterOnePage2Name" = "For loop";
+"ChapterOnePage3Name" = "Conditional-1";
+"ChapterOnePage4Name" = "Conditional-2";
+"ChapterOnePage5Name" = "Final";
 
-
+"ChapterTwoPageOneName" = "Customize Game!!";
 
 "Chapter2Name" = "Make Own Game";

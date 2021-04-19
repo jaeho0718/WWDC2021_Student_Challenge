@@ -1,9 +1,8 @@
-//#-hidden-code
-//
-//  See LICENSE folder for this template’s licensing information.
-//
-//  Abstract:
-//  The Swift file containing the source code edited by the user of this playground book.
-//
-//#-end-hidden-code
-let str = "Hello, playground"
+/*:
+ # **Make Your Own Rhythmic Game!**
+ 
+ **you can see the function about game in GameFunction.swift**
+ */
+playSound(true) //play the sound when game start
+GameInit() // initialize game screen
+
